@@ -308,8 +308,10 @@ This project is an excellent addition to a portfolio for:
 
 # 👨‍💻 Author
 
-**Sunil Mishra**
+Sunil Mishra
 
-**SQL Developer | Data Analyst | Data Engineering Enthusiast**
+MS in Data Science
+
+Data Analyst | SQL | Python | Excel | Tableau | Power BI
 
 If you found this project helpful, don't forget to ⭐ **Star the repository**.
