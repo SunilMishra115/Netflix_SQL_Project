@@ -306,14 +306,6 @@ This project is an excellent addition to a portfolio for:
 
 ---
 
-# 📜 Copyright
-
-© 2026 Sunil Mishra. All rights reserved.
-
-This project is published for educational and portfolio purposes only. Please do not copy or redistribute this work without permission.
-
----
-
 # 👨‍💻 Author
 
 **Sunil Mishra**
